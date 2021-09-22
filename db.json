@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "first task",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "second task",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Third task",
+      "reminder": false
+    },
+    {
+      "text": "new task",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
